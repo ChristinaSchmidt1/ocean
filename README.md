@@ -52,8 +52,7 @@ ocEAn manuscript: Sciacovelli, Dugourd et al. Nitrogen partitioning between
 branched-chain amino acids and urea cycle enzymes sustains renal cancer
 progression; 2022 https://pubmed.ncbi.nlm.nih.gov/36539415/
 
-To reproduce the result of this manuscript, install ocEAn from the branch
-"marco_paper".
+To reproduce the result of this manuscript go to https://github.com/saezlab/Sciacovelli_Dugourd_2021_paper/tree/main.
 
 The underlying metabolic model is based on a curated reduced model of human
 metabolism, see: Masid M, Ataman M & Hatzimanikatis V (2020) Analysis of human
